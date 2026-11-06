@@ -33,3 +33,5 @@ python3 test/test_aes_gcm.py
 
 Checks every result against Python's AES-GCM, with and without a bit library, including
 empty and non-block-sized messages and a tampered message.
+
+Used by: [control4-tuya](https://github.com/The1TrueJoe/control4-tuya) (the Tuya Bridge's Smart Life sign-in).
